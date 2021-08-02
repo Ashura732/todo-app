@@ -31,7 +31,6 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [How To Use](#how-to-use)
-- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
