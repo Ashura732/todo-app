@@ -80,4 +80,4 @@ $ npm start
 
 ## Contact
 
-- GitHub [bk20dev](https://github.com/Ashura732)
+- GitHub [Ashura732](https://github.com/Ashura732)
